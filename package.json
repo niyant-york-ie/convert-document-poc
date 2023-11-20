@@ -1,0 +1,25 @@
+{
+  "name": "convert-document-poc",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/niyant-york-ie/convert-document-poc.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/niyant-york-ie/convert-document-poc/issues"
+  },
+  "homepage": "https://github.com/niyant-york-ie/convert-document-poc#readme",
+  "dependencies": {
+    "fs": "0.0.1-security",
+    "groupdocs-conversion-cloud": "^23.10.0"
+  }
+}
